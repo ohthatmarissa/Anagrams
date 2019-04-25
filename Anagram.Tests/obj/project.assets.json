@@ -5829,11 +5829,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Guest/Desktop/Anagram.Solution/Anagram.Tests/Anagram.Tests.csproj",
+      "projectUniqueName": "/Users/Guest/Desktop/Anagrams/Anagram.Tests/Anagram.Tests.csproj",
       "projectName": "Anagram.Tests",
-      "projectPath": "/Users/Guest/Desktop/Anagram.Solution/Anagram.Tests/Anagram.Tests.csproj",
+      "projectPath": "/Users/Guest/Desktop/Anagrams/Anagram.Tests/Anagram.Tests.csproj",
       "packagesPath": "/Users/Guest/.nuget/packages/",
-      "outputPath": "/Users/Guest/Desktop/Anagram.Solution/Anagram.Tests/obj/",
+      "outputPath": "/Users/Guest/Desktop/Anagrams/Anagram.Tests/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -5850,8 +5850,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "/Users/Guest/Desktop/Anagram.Solution/Anagram/Anagram.csproj": {
-              "projectPath": "/Users/Guest/Desktop/Anagram.Solution/Anagram/Anagram.csproj"
+            "/Users/Guest/Desktop/Anagrams/Anagram/Anagram.csproj": {
+              "projectPath": "/Users/Guest/Desktop/Anagrams/Anagram/Anagram.csproj"
             }
           }
         }

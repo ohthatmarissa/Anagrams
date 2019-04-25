@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Guest/Desktop/Anagram.Solution/Anagram/Anagram.csproj",
+      "projectUniqueName": "/Users/Guest/Desktop/Anagrams/Anagram/Anagram.csproj",
       "projectName": "Anagram",
-      "projectPath": "/Users/Guest/Desktop/Anagram.Solution/Anagram/Anagram.csproj",
+      "projectPath": "/Users/Guest/Desktop/Anagrams/Anagram/Anagram.csproj",
       "packagesPath": "/Users/Guest/.nuget/packages/",
-      "outputPath": "/Users/Guest/Desktop/Anagram.Solution/Anagram/obj/",
+      "outputPath": "/Users/Guest/Desktop/Anagrams/Anagram/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

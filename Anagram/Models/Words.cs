@@ -1,4 +1,0 @@
-namespace Anagram
-{
-  pu
-}
